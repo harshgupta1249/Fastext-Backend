@@ -1,7 +1,7 @@
 <div align="center">
 
 # [Fastext](https://fastext-messaging.netlify.app/)
-<img   src="/assets/Capture.PNG">
+<img   src="Capture.PNG">
 </div>
 
 
