@@ -10,6 +10,7 @@
 Web-application to share and manage messages. It has features to send, receive, and delete messages.<br>
 It is fully responsive.<br>
 Hosted Link : https://fastext-messaging.netlify.app/
+<br>
 Frontend : https://github.com/harshgupta1249/Fastext-Frontend
 
 # Features Implemented
