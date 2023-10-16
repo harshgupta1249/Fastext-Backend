@@ -4,7 +4,6 @@
 <img   src="Capture.PNG">
 </div>
 
-
 # Project Description
 
 Web-application to share and manage messages. It has features to send, receive, and delete messages.<br>
